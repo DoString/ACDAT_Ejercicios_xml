@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<empleados>
+	<empleado>
+		<nombre>Eustaquio Rodriguez</nombre>
+		<puesto>Arquitecto</puesto>
+		<edad>42</edad>
+		<sueldo>3000</sueldo>
+	</empleado>
+	<empleado>
+		<nombre>Eladio Gomez</nombre>
+		<puesto>Profesor</puesto>
+		<edad>24</edad>
+		<sueldo>2500</sueldo>
+	</empleado>
+	<empleado>
+		<nombre>Marta Dominguez</nombre>
+		<puesto>Atleta</puesto>
+		<edad>32</edad>
+		<sueldo>1000</sueldo>
+	</empleado>
+	<empleado>
+		<nombre>Jorge Parra</nombre>
+		<puesto>Fontanero</puesto>
+		<edad>33</edad>
+		<sueldo>900</sueldo>
+	</empleado>
+	<empleado>
+		<nombre>Mariano Rajoy</nombre>
+		<puesto>Cuentista</puesto>
+		<edad>25</edad>
+		<sueldo>1100</sueldo>
+	</empleado>
+</empleados>

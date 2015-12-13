@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicios_xml</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tiempo">El tiempo en Málaga</string>
+    <string name="title_activity_estaciones_bizi">EstacionesBizi</string>
+    <string name="title_activity_estacion_detalles">EstacionDetalles</string>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="title_activity_titulares">Titulares</string>
+    <string name="title_activity_empleados">Empleados</string>
+</resources>
